@@ -8,6 +8,7 @@
 let after = 90
 let stash = 'stash'
 let origin = 'or'
+let haha = '12'
 export default {
 }
 </script>
