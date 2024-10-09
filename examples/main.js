@@ -9,3 +9,4 @@ new Vue({
 }).$mount('#app')
 
 const a = 99
+const stash = 999

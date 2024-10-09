@@ -6,6 +6,7 @@
 <script>
 
 let after = 90
+let stash = 'stash'
 export default {
 }
 </script>
