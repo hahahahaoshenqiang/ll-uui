@@ -10,6 +10,7 @@ let stash = 'stash'
 let origin = 'or'
 let haha = '12'
   let orr = 'orr'
+let bb=99
 export default {
 }
 </script>
