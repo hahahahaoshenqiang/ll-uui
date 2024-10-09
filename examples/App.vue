@@ -7,6 +7,7 @@
 
 let after = 90
 let stash = 'stash'
+  let o = 123
 export default {
 }
 </script>
