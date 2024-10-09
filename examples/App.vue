@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    <hm-button type="primary">按钮</hm-button>
   </div>
 </template>
 
 <script>
 
+let after = 90
 export default {
 }
 </script>

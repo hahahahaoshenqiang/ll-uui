@@ -7,3 +7,5 @@ Vue.use(HeimaUI)
 new Vue({
   render: h => h(App)
 }).$mount('#app')
+
+const a = 99
