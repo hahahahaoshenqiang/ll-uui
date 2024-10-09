@@ -7,6 +7,7 @@
 
 let after = 90
 let stash = 'stash'
+let origin = 'or'
 export default {
 }
 </script>
